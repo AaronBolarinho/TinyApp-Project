@@ -24,5 +24,6 @@ Onward then mehearties! Register! Then login and board our ship.
 
 ## Getting Started
 
-- Installed all dependencies (using the 'npm install' command).
-- Run the development web server using te 'node express_server.js' command.# TinyApp-Project
+- Install all dependencies (using the 'npm install' command).
+- Run the development web server using te 'node express_server.js' command.
+- Navigate to localhost:8080 to begin, then follow the links!
